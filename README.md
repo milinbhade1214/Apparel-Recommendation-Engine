@@ -6,9 +6,9 @@ Build a recommendation engine which suggests similar products to the given produ
 <hr>
 This GitHub repository contains the code and documentation for building an apparel recommendation engine that leverages various natural language processing (NLP) and deep learning techniques. The core idea behind this project is to recommend apparel items to users based on the titles of the products they are interested in. We utilize BOW(Bag of Words), TF-IDF,  Word2Vec embeddings, CNN (Convolutional Neural Networks) to extract meaningful features from product titles and calculate similarities for personalized recommendations. Visualizations are used to get sense of how similar are the products that are recommended given some query product.
 
-<hr>
 
-<hr>
+![result](https://github.com/milinbhade1214/Apparel-Recommendation-Engine/assets/43195552/783fb43b-80fc-401b-82d2-bff2cd5a59c1)
+
 
 ## Objective
 - The recommendation engine, uses information about 1,80,000 products and each product will have multiple features named.
