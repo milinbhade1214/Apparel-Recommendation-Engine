@@ -1,8 +1,9 @@
 # Apparel-Recommendation-Engine
 Apparel Recommendation Engine based on Product Title Feature
 # Introduction and Problem Statement
-## Build a recommendation engine which suggests similar products to the given product in any e-commerce websites using NLP techniques for Text Semantics based product similarity and deep learning techniques for deep learning based visual product similarity.
-
+<hr>
+#### Build a recommendation engine which suggests similar products to the given product in any e-commerce websites using NLP techniques for Text Semantics based product similarity and deep learning techniques for deep learning based visual product similarity.
+<hr>
 This GitHub repository contains the code and documentation for building an apparel recommendation engine that leverages various natural language processing (NLP) and deep learning techniques. The core idea behind this project is to recommend apparel items to users based on the titles of the products they are interested in. We utilize BOW(Bag of Words), TF-IDF,  Word2Vec embeddings, CNN (Convolutional Neural Networks) to extract meaningful features from product titles and calculate similarities for personalized recommendations. Visualizations are used to get sense of how similar are the products that are recommended given some query product.
 
 
